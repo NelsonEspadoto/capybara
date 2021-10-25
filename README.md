@@ -1,2 +1,2 @@
 # capybara
-Curso de Automação com Capybara
+# Automação com Capybara
